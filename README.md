@@ -1,1 +1,1 @@
-All public tools (as far as I know) can’t parse offline WBEM (offline WMI) objects on newer editions of Windows. This tool is designed to parse the newer formats (objects.data and index.btr). It is based on the dissect.cim library (https://github.com/fox-it/dissect.cim)
+All public tools (as far as I know) can’t parse properly offline WBEM (offline WMI) objects on newer editions of Windows. This tool is designed to parse the newer formats (objects.data and index.btr). It is based on the dissect.cim library (https://github.com/fox-it/dissect.cim)
